@@ -47,6 +47,10 @@ A requirements file, *requirements.txt*, is provided to facilitate
 installation.  Note also that PostgreSQL must be installed in an environment  
 where the Python psycopg2 adapter will have access to it.  
 
+Detailed instructions on the set up of PostgreSQL for use with this project,  
+including installation and setup of the required user profile 'catuser',    
+are available [here](https://github.com/builderLabs/postgresql_catalog_webapp/blob/master/CatalogCfg.md).  
+
 Instructions below assume installation in a Python virtual environment using  
 the convenient pip installer.  
 
